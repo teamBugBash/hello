@@ -1,3 +1,1 @@
-ffffaaa
-f
-a
+ssss
