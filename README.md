@@ -1,3 +1,1 @@
-iixxss
-ssss
-ss
+sss
