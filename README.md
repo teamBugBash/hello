@@ -1,1 +1,1 @@
-sssss
+Blank template
