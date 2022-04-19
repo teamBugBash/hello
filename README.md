@@ -4,3 +4,4 @@ a
 bug bash test for @ mentions
 g
 f
+g
