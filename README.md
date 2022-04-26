@@ -3,6 +3,8 @@ a
 
 bug bash test for @ mentions
 g
+s
+
 f
 g
 x
