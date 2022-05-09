@@ -18,3 +18,5 @@ Test a commit
 test
 
 commit PR
+
+commit via PR
