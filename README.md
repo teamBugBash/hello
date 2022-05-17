@@ -21,3 +21,5 @@ test
 commit PR
 
 commit via PR
+
+Test a PR with emojis 😊
