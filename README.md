@@ -4,7 +4,7 @@ a
 bug bash test for @ mentions
 g
 fl
-g
+gs
 x
 
 
