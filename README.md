@@ -5,7 +5,7 @@ bug bash test for @ mentions
 g
 fl
 g
-x
+xs
 
 
 PR changess
