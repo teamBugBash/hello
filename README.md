@@ -3,7 +3,7 @@ a
 
 bug bash test for @ mentions
 g
-fl
+fli
 g
 x
 
