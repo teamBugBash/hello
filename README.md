@@ -5,5 +5,3 @@ ss
 unoma
 test
 test
-
-test
